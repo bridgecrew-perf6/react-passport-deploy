@@ -1,8 +1,6 @@
 import React from 'react'
 import styles from './LoginPage.module.css'
 import googleImage from '../../assets/googleImage.png'
-import githubImage from '../../assets/githubImage.png'
-import twitterImage from '../../assets/twitterImage.png'
 
 const LoginPage = () => {
     const googleLogin = () => {
